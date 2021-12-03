@@ -1,3 +1,3 @@
-# IBM-Data-Science
+# Data Science Projects in Python
 
-Repository for my source code and projects from IBM Data Science Specializations on Coursera
+<p>This repository consists of simple Python Projects from "IBM Data Science Professional Certificate" on Coursera.</p>
