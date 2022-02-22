@@ -1,3 +1,3 @@
-# Data Science in Python
+# IBM Data Science Professional Certificate
 
-<p>This repository consists of Python codes from "IBM Data Science Professional Certificate" Exercises and mini Projects on Coursera.</p>
+<p>This repository consists of Lab Sessions and Assignments from "IBM Data Science Professional Certificate" on Coursera.</p>
